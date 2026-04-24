@@ -39,7 +39,7 @@ Sou estudante de Ciência da Computação (8º semestre) no CEUB, apaixonado por
 
 ### 🌟 Projetos em Destaque
 
-- **[CondoMovel](https:/www.condomovel.com.br):** Plataforma SaaS para gestão condominial integrada com IoT e agentes de IA.
+- **[CondoMovel](https://www.condomovel.com.br):** Plataforma SaaS para gestão condominial integrada com IoT e agentes de IA.
 - **[Automação Analítica]:** Scripts complexos para extração e tratamento de dados brutos utilizando Python e Selenium.
 
 ---
