@@ -32,14 +32,32 @@
 
 ## 🛠️ Tech Stack
 
-**Backend & Systems** `Python` | `JavaScript / Node.js` | `C++` | `PostgreSQL` | `MySQL` | `REST APIs`
-
-**Data & BI** `Power BI` | `DAX` | `Data Modeling` | `ETL Pipelines` | `SQL`
-
-**IoT & Embedded** `ESP32` | `ESP8266` | `MQTT Protocol` | `Real-time Communication` | `Hardware Automation`
-
-**DevOps & Infrastructure** `Linux (Ubuntu, Kali)` | `Docker` | `Git` | `CI/CD` | `Server Management`
-
+* Backend & Systems:
+  * Python
+  * JavaScript / Node.js
+  * C++
+  * REST APIs
+  * PostgreSQL
+  * MySQL
+* Data & BI:
+  * Power BI
+  * DAX
+  * Data Modeling
+  * ETL Pipelines
+  * SQL
+* IoT & Embedded:
+  * ESP32
+  * ESP8266
+  * MQTT Protocol
+  * Real-time Communication
+  * Hardware Automation
+* DevOps & Infrastructure:
+  * Linux (Ubuntu, Kali)
+  * Docker
+  * Git
+  * CI/CD
+  * Server Management
+  
 ---
 
 ## 🚀 Highlighted Projects
@@ -113,14 +131,31 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-**Desenvolvimento Backend** `Python` | `JavaScript / Node.js` | `C++` | `PostgreSQL` | `MySQL` | `APIs RESTful`
-
-**Dados & BI** `Power BI` | `DAX` | `Modelagem de Dados` | `Pipelines ETL` | `SQL`
-
-**IoT & Embarcados** `ESP32` | `ESP8266` | `Protocolo MQTT` | `Comunicação em Tempo Real` | `Automação`
-
-**DevOps & Infraestrutura** `Linux (Ubuntu, Kali)` | `Docker` | `Git` | `CI/CD` | `Gerenciamento de Servidores`
-
+* Desenvolvimento Backend:
+  * Python
+  * JavaScript / Node.js
+  * C++
+  * APIs RESTful
+  * PostgreSQL
+  * MySQL
+* Dados & BI:
+  * Power BI
+  * DAX
+  * Modelagem de Dados
+  * Pipelines ETL
+  * SQL
+* IoT & Embarcados:
+  * ESP32
+  * ESP8266
+  * Protocolo MQTT
+  * Comunicação em Tempo Real
+  * Automação de Hardware
+* DevOps & Infraestrutura:
+  * Linux (Ubuntu, Kali)
+  * Docker
+  * Git
+  * CI/CD
+  * Gerenciamento de Servidores
 ---
 
 ## 🚀 Projetos Destacados
