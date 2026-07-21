@@ -63,18 +63,34 @@
 ## 🚀 Highlighted Projects
 
 ### 🏘️ CondoMovel: Smart Condominium Management Platform
-
 * **Scope**: Full-stack SaaS platform designed for modern property and condominium management.
-* **Architecture**: Integrated IoT microcontrollers (ESP32) for real-time automated gate access, combined with a robust backend service.
+* **Architecture**: Integrated IoT microcontrollers (ESP32) for real-time automated gate access combined with a robust backend service.
 * **Key Achievements**: End-to-end relational database design, automated business rules, and hardware-software communication via MQTT.
 * **Tech**: `Python` `Node.js` `PostgreSQL` `ESP32` `MQTT` `Docker`
 
-### 📊 Enterprise BI & Data Automation
+### 📊 Castelinho: Retail BI Portal & Interactive SQL Playground
+* **Scope**: Business Intelligence portal simulating retail operations in Brasília (DF) with seasonal sales analysis.
+* **Key Features**: Built interactive dashboards using Plotly Dash and Streamlit, featuring an in-app interactive SQL Playground for custom querying.
+* **Data Pipeline**: Automated SQLite database seeding (~4.4k sales, ~16k items) with Pandas ETL aggregations.
+* **Tech**: `Python` `Dash` `Streamlit` `Pandas` `SQLite` `Gunicorn`
 
-* **Scope**: Interactive Business Intelligence suite and automated data workflows for decision-making.
-* **Pipeline**: ETL processes extracting from multiple relational databases to structured reporting models using advanced DAX.
-* **Impact**: Streamlined IT monitoring metrics and business operational workflows into real-time decision-ready dashboards.
-* **Tech**: `Power BI` `DAX` `SQL` `Python` `Linux`
+### 🚗 Smart Gate AI: License Plate Recognition (LPR) System
+* **Scope**: Computer Vision Proof-of-Concept (PoC) for automated residential access control without physical remotes.
+* **Architecture**: Deep learning text extraction via EasyOCR combined with OpenCV image preprocessing to detect Mercosul/Standard license plates.
+* **Functionality**: Bounding box rendering, real-time plate validation against authorized lists, and automated decision logs.
+* **Tech**: `Python` `EasyOCR` `OpenCV` `Matplotlib`
+
+### 🚘 Auction Vehicle Analyzer for Rideshare (Uber/99)
+* **Scope**: Web scraping and analytics tool for evaluating vehicle auction lots for rideshare suitability.
+* **Pipeline**: Scrapes live auction data, calculates total estimated cost (Bid + 5% Fee + Maintenance), and cross-references FIPE pricing.
+* **UI**: Modern dark-mode Glassmorphism dashboard classifying vehicles by acceptance criteria (Year, AC, and Claim History).
+* **Tech**: `Python` `BeautifulSoup4` `JavaScript` `CSS3` `JSON`
+
+### 🔑 CleanMaster: Flask Software License & User Management System
+* **Scope**: Web-based administration and licensing platform for SaaS products with Free and Premium tiers.
+* **Key Features**: Secure user authentication (Werkzeug hashing), 7-day session management, license key generation (`XXXX-XXXX-XXXX`), and admin panel.
+* **Database**: MySQL relational schema tracking user profiles, active keys, and license expiration.
+* **Tech**: `Python` `Flask` `MySQL` `Flask-Session` `Werkzeug`
 
 ---
 
@@ -161,18 +177,34 @@
 ## 🚀 Projetos Destacados
 
 ### 🏘️ CondoMovel: Plataforma Inteligente de Gestão Condominial
-
 * **Escopo**: Plataforma SaaS Full-stack desenvolvida para automação e gestão moderna de condomínios.
 * **Arquitetura**: Integração com microcontroladores (ESP32) para controle de acesso automatizado a portões em tempo real.
 * **Resultados**: Modelagem de banco de dados relacional, regras de negócio automatizadas e ecossistema integrado via MQTT.
 * **Tecnologias**: `Python` `Node.js` `PostgreSQL` `ESP32` `MQTT` `Docker`
 
-### 📊 BI Empresarial & Automação de Dados
+### 📊 Castelinho: Portal de BI Varejista & SQL Playground Interativo
+* **Escopo**: Portal de Business Intelligence simulando operações varejistas no Distrito Federal com análise de sazonalidade.
+* **Diferenciais**: Dashboards interativos em Dash e Streamlit contendo uma aba interativa de **SQL Playground** para execução de queries customizadas.
+* **Pipeline de Dados**: Popularização automatizada de banco SQLite (~4.4k vendas, ~16k itens) com agregações de ETL via Pandas.
+* **Tecnologias**: `Python` `Dash` `Streamlit` `Pandas` `SQLite` `Gunicorn`
 
-* **Escopo**: Suíte de Business Intelligence e fluxos automatizados de dados para suporte à tomada de decisão.
-* **Pipeline**: Processos de ETL extraindo de múltiplos bancos de dados relacionais para modelos estruturados com DAX avançado.
-* **Impacto**: Otimização do monitoramento de métricas de TI e processos operacionais em dashboards em tempo real.
-* **Tecnologias**: `Power BI` `DAX` `SQL` `Python` `Linux`
+### 🚗 Smart Gate AI: Reconhecimento de Placas Veiculares (LPR)
+* **Escopo**: Prova de Conceito (PoC) em Visão Computacional para controle de acesso residencial automatizado sem controles físicos.
+* **Arquitetura**: Extração de texto via EasyOCR combinada com pré-processamento de imagem em OpenCV para placas Mercosul e antigas.
+* **Funcionalidades**: Demarcação visual (*bounding box*), validação em tempo real contra lista de moradores e logs de decisão.
+* **Tecnologias**: `Python` `EasyOCR` `OpenCV` `Matplotlib`
+
+### 🚘 Analisador de Veículos de Leilão para Aplicativo (Uber/99)
+* **Escopo**: Ferramenta de raspagem de dados e analytics para avaliação de oportunidades de veículos em leilões.
+* **Pipeline**: Raspagem de dados ao vivo, cálculo do custo real estimado (Lance + Taxas + Manutenção) e cruzamento com Tabela FIPE.
+* **Interface**: Dashboard em Dark Mode (Glassmorphism) classificando veículos quanto à aptidão para Uber/99.
+* **Tecnologias**: `Python` `BeautifulSoup4` `JavaScript` `CSS3` `JSON`
+
+### 🔑 CleanMaster: Gerenciador de Licenças & Usuários em Flask
+* **Escopo**: Sistema web de administração e licenciamento para produtos SaaS com níveis Free e Premium.
+* **Funcionalidades**: Autenticação segura (hash Werkzeug), sessões persistentes, geração de chaves (`XXXX-XXXX-XXXX`) e painel admin.
+* **Banco de Dados**: Estrutura relacional em MySQL gerenciando usuários, status de chaves e controle de expiração.
+* **Tecnologias**: `Python` `Flask` `MySQL` `Flask-Session` `Werkzeug`
 
 ---
 
