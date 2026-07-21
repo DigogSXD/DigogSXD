@@ -7,7 +7,7 @@
 🌱 **Focus**: Full-Stack Backend + Business Intelligence & Data Pipelines + IoT Integrations
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/diogo-borges-de-moura-3b1b53289/">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="#-versão-em-português">
@@ -86,7 +86,7 @@
 🌱 **Foco**: Desenvolvimento Backend Full-Stack + Business Intelligence & Pipelines de Dados + Integrações IoT
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/diogo-borges-de-moura-3b1b53289/">
     <img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="#">
