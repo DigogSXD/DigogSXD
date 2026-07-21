@@ -75,7 +75,7 @@
 
 ---
 
-📫 **Let's connect**: [LinkedIn](https://linkedin.com/in/diogo-borges-de-moura-3b1b53289/) | [seu-email@email.com](mailto:diogodbm9@email.com)
+📫 **Let's connect**: [LinkedIn](https://linkedin.com/in/diogo-borges-de-moura-3b1b53289/) | [diogodbm9@email.com](mailto:diogodbm9@email.com)
 
 ---
 
@@ -156,4 +156,4 @@
 
 ---
 
-📫 **Vamos conversar**: [LinkedIn](https://linkedin.com/in/diogo-borges-de-moura-3b1b53289/) | [seu-email@email.com](mailto:diogodbm9@email.com)
+📫 **Vamos conversar**: [LinkedIn](https://linkedin.com/in/diogo-borges-de-moura-3b1b53289/) | [diogodbm9@email.com](mailto:diogodbm9@email.com)
